@@ -1,0 +1,17 @@
+@import "./styles/Css-reset.css";
+@import "./styles/font.css";
+
+html{
+    font-size: 10px;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*,*::before,*::after{
+    box-sizing: inherit;
+}
+body{
+    font-family: 'iransans';
+    font-size: 1.6rem;
+    direction: rtl;
+}
+
